@@ -1,0 +1,42 @@
+.container{
+    margin: 0 auto;
+    background-color: silver;
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 50px;
+}
+.row{
+    margin: 0 auto;
+    background-color: white;
+    width: 1200px;
+    height: 100px;
+}
+.panel-primary{
+    background-color: white;
+    border: #2471A3;
+    border-style: solid;
+}
+.panel-heading{
+    background-color: #2471A3; 
+    color: white;
+    width: auto;
+    height: 50px;
+    text-align: center;
+}
+.panel-body{
+    padding: 20px;
+}
+ #boton{
+    width: 130px;
+    height: 30px;
+    background-color: #2471A3;
+}
+#boton a{
+    text-decoration: none;
+    color: white;
+    
+}
+#boton:hover{
+    color: #2471A3;
+    background-color: white;
+}
